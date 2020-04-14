@@ -4,7 +4,7 @@ import abstracts.AbstractRoom;
 
 public class EnchantedRoom extends AbstractRoom{
 	
-	public void AbstractRoomBuilder(){
+	public void AbstractRoom(){
 
 	}
 
