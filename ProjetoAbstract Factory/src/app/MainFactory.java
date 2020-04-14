@@ -12,7 +12,7 @@ public class MainFactory {
 	
 	public static void main(String[] args) {
 		
-		MazeGame mazeg = new MazeGame ("Encantado", "Parede de Encantada", "Quarto da Luz", "Porta Fechada");
+		MazeGame mazeg = new MazeGame ("Encantado", "Parede Encantada", "Quarto da Luz", "Porta Fechada");
 		
 		
 		System.out.println(mazeg);
